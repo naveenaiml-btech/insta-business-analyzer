@@ -1,5 +1,7 @@
-__pycache__/
-*.pyc
-.env
-venv/
+.next/
 node_modules/
+.env
+.env*.local
+.vercel
+*.tsbuildinfo
+.DS_Store
